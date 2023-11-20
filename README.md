@@ -24,8 +24,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Utilities and Client Libraries
 
 - [FPDS](https://github.com/dherincx92/fpds) - Accessing the Federal Procurement Data System (FPDS) ATOM feed in Python and a CLI
+- [pysam](https://github.com/jpleger/pysam) - A python wrapper over the SAM API
+- [SamDotNet](https://github.com/mheadd/SamDotNet) - A C# wrapper over the SAM API
 
 ## Data science and other cool stuff
 
 - [David Gill's Acquisition Innovation repo](https://github.com/DGill-Procurement/AcquisitionInnovation) - Structured transaction reports from USASpending.gov and some NLP utilities using R
 - [DIIG CSIS Lookup Tables](https://github.com/CSISdefense/Lookup-Tables) - A bunch of tables used in procurement (including NAICS codes, contracting offices, etc)
+- [USASpending Bot](https://github.com/coforma/usa-spending-bot) - A slack bot that uses usaspending.gov's API to retrieve data on awarded contracts
+- [SAM.gov webscraper](https://github.com/jankaltenegger/SAM.gov-Webscraper) - Use Google Sheets to track SAM opportunities? Here's a tool for that
