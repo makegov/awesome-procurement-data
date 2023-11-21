@@ -20,12 +20,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FPDS API](https://www.fpds.gov/wiki/index.php/ATOM_Feed_FAQ) - The XML feed we all know and... well, we know it anyway...
 - [USASpending](https://api.usaspending.gov) - Maybe the GOAT of GovCon APIs?
 - [SBIR API](https://www.sbir.gov/api/) - An API that powers the SBIR.gov website
+- [FAR](https://github.com/GSA/GSA-Acquisition-FAR) - The FAR in various formats (including XML, ePub, docx, and PDF)
 
 ## Utilities and Client Libraries
 
 - [FPDS](https://github.com/dherincx92/fpds) - Accessing the Federal Procurement Data System (FPDS) ATOM feed in Python and a CLI
+- [PSC Selection Tool](https://psctool.us/home) - An API maintained by the Defense Pricing and Contracting (DPC) office for accessing NAICS and PSC codes.
 - [pysam](https://github.com/jpleger/pysam) - A python wrapper over the SAM API
 - [SamDotNet](https://github.com/mheadd/SamDotNet) - A C# wrapper over the SAM API
+- [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
 
 ## Data science and other cool stuff
 
