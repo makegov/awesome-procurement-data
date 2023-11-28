@@ -31,6 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [pysam](https://github.com/jpleger/pysam) - A python wrapper over the SAM API
 - [SamDotNet](https://github.com/mheadd/SamDotNet) - A C# wrapper over the SAM API
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
+- [The Pulse of GovCon's Part9 API](https://thepulsegovcon.com/product/part9-api/) - An API that consolidates opportunities from SAM.gov, Challenge.gov, Grants.gov and legacy FBO.gov
 
 ## Data science and other cool stuff
 
