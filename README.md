@@ -32,6 +32,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SamDotNet](https://github.com/mheadd/SamDotNet) - A C# wrapper over the SAM API
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
 - [The Pulse of GovCon's Part9 API](https://thepulsegovcon.com/product/part9-api/) - An API that consolidates opportunities from SAM.gov, Challenge.gov, Grants.gov and legacy FBO.gov
+- [Sec. 889 Compliance Tool](https://github.com/nasa/889-Compliance-SAM-Tool-) - A library built by NASA to quickly determine Vendor 889 Compliance
 
 ## Data science and other cool stuff
 
