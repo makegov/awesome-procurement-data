@@ -40,3 +40,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DIIG CSIS Lookup Tables](https://github.com/CSISdefense/Lookup-Tables) - A bunch of tables used in procurement (including NAICS codes, contracting offices, etc)
 - [USASpending Bot](https://github.com/coforma/usa-spending-bot) - A slack bot that uses usaspending.gov's API to retrieve data on awarded contracts
 - [SAM.gov webscraper](https://github.com/jankaltenegger/SAM.gov-Webscraper) - Use Google Sheets to track SAM opportunities? Here's a tool for that
+- [Expiring federal contracts sample data](https://github.com/molchalih/openfilings-samples) - Free CSV samples of prime contracts and orders whose period of performance ends within 12 months, cut by NAICS code, with a `how_to_compete` column and a link to each official award page (my own project; full per-code files are paid)
