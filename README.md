@@ -33,6 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
 - [The Pulse of GovCon's Part9 API](https://thepulsegovcon.com/product/part9-api/) - An API that consolidates opportunities from SAM.gov, Challenge.gov, Grants.gov and legacy FBO.gov
 - [Sec. 889 Compliance Tool](https://github.com/nasa/889-Compliance-SAM-Tool-) - A library built by NASA to quickly determine Vendor 889 Compliance
+- [SAM.gov Contract Opportunities (Apify)](https://apify.com/prospect_antechamber/sam-gov-contract-opportunities) - Pulls SAM.gov opportunities without an API key, with set-aside, NAICS, state and deadline filters and contracting-officer contacts, as JSON/CSV. [Free daily set-aside sample](https://nidhi-bhai.github.io/daily-leads/sam-gov-small-business-set-aside-bids-today/).
 
 ## Data science and other cool stuff
 
