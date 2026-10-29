@@ -40,3 +40,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DIIG CSIS Lookup Tables](https://github.com/CSISdefense/Lookup-Tables) - A bunch of tables used in procurement (including NAICS codes, contracting offices, etc)
 - [USASpending Bot](https://github.com/coforma/usa-spending-bot) - A slack bot that uses usaspending.gov's API to retrieve data on awarded contracts
 - [SAM.gov webscraper](https://github.com/jankaltenegger/SAM.gov-Webscraper) - Use Google Sheets to track SAM opportunities? Here's a tool for that
+- [GovCon Software Index price data](https://govconsoftwareindex.com/pricing-index) - Free CSV and JSON of published software prices for small federal contractors, each with its source URL and check date
