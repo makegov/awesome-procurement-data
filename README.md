@@ -28,6 +28,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [FPDS](https://github.com/dherincx92/fpds) - Accessing the Federal Procurement Data System (FPDS) ATOM feed in Python and a CLI
 - [PSC Selection Tool](https://psctool.us/home) - An API maintained by the Defense Pricing and Contracting (DPC) office for accessing NAICS and PSC codes.
 - [FSCPSC](https://www.fscpsc.com/) - A "prediction engine" for NAICS and PSC codes. It has a cool [API](https://api.fscpsc.com/), too!
+- [Government Contract Award Change Report](https://apify.com/taroyamada/government-contract-award-monitor) - Tracks TED and USASpending contract award changes. Approx. USD 0.01–0.03 per default run on Apify.
 - [pysam](https://github.com/jpleger/pysam) - A python wrapper over the SAM API
 - [SamDotNet](https://github.com/mheadd/SamDotNet) - A C# wrapper over the SAM API
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
