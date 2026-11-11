@@ -33,6 +33,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
 - [The Pulse of GovCon's Part9 API](https://thepulsegovcon.com/product/part9-api/) - An API that consolidates opportunities from SAM.gov, Challenge.gov, Grants.gov and legacy FBO.gov
 - [Sec. 889 Compliance Tool](https://github.com/nasa/889-Compliance-SAM-Tool-) - A library built by NASA to quickly determine Vendor 889 Compliance
+- [Bidstage](https://bidstage.app) - Matches a company's website to open opportunities across 11 sources (SAM.gov, TED, UK, CanadaBuys, World Bank and more) with a fit score; free search, no account needed
 
 ## Data science and other cool stuff
 
