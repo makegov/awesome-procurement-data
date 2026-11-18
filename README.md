@@ -33,6 +33,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [procurement-tools](https://github.com/tandemgov/procurement-tools) - A python library for various procurement-related tasks
 - [The Pulse of GovCon's Part9 API](https://thepulsegovcon.com/product/part9-api/) - An API that consolidates opportunities from SAM.gov, Challenge.gov, Grants.gov and legacy FBO.gov
 - [Sec. 889 Compliance Tool](https://github.com/nasa/889-Compliance-SAM-Tool-) - A library built by NASA to quickly determine Vendor 889 Compliance
+- [SAM.gov opportunities API guide](https://rowsift.co.uk/guides/sam-gov-opportunities-api/) - Options for getting SAM.gov contract notices as CSV/JSON: the Get Opportunities API (10 requests/day for non-federal keys), the GSA daily CSV extract, and a NAICS-filtered daily feed
+- [USAspending API guide](https://rowsift.co.uk/guides/usaspending-api/) - Keyless `spending_by_award` examples, the 100-row page cap, and why `new_awards_only` matters when filtering by date
 
 ## Data science and other cool stuff
 
