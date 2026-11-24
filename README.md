@@ -22,6 +22,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SBIR API](https://www.sbir.gov/api/) - An API that powers the SBIR.gov website
 - [FAR](https://github.com/GSA/GSA-Acquisition-FAR) - The FAR in various formats (including XML, ePub, docx, and PDF)
 - [Acquisition Gateway Document Library API](https://open.gsa.gov/api/ag-api/) - Structured data that for documents on the Acquisition Gateway (May not be publicly accessible).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [EU TED Tenders Scraper](https://apify.com/publicrecords/eu-ted-notices-scraper) - EU procurement notices from TED: buyer, CPV, value, deadline, link (Apify Actor, API + MCP).
+- [UK Tenders Scraper](https://apify.com/publicrecords/uk-find-a-tender-scraper) - UK government tenders from Find a Tender and Contracts Finder: buyer, value, deadline (Apify Actor, API + MCP).
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
 
 ## Utilities and Client Libraries
 
